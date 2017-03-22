@@ -6,7 +6,7 @@ Java program for airports.
 
 # Commands
 
-q - quits the program
+q - quits the program <br>
 ? - displays a list of commands
 t <airport1> <airport2> - display a message stating whether a person can travel from aiport1 to aiport2 in one or more flights.
 r <int> - resizes the array to contain the number of aiports given by int
