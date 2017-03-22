@@ -7,9 +7,9 @@ Java program for airports.
 # Commands
 
 q - quits the program <br>
-? - displays a list of commands
-t <airport1> <airport2> - display a message stating whether a person can travel from aiport1 to aiport2 in one or more flights.
-r <int> - resizes the array to contain the number of aiports given by int
-i <aiport1> <airport2> - insert the edge to indicate a plane flies from aiport1 to airport2
-d <airport1> <airport2> - deletes the edge that indicates a plane flies from airport1 to airport2
-l - list all the airports in the network with all their connecting flights
+? - displays a list of commands <br>
+t <airport1> <airport2> - display a message stating whether a person can travel from aiport1 to aiport2 in one or more flights<br>
+r <int> - resizes the array to contain the number of aiports given by int<br>
+i <aiport1> <airport2> - insert the edge to indicate a plane flies from aiport1 to airport2<br>
+d <airport1> <airport2> - deletes the edge that indicates a plane flies from airport1 to airport2<br>
+l - list all the airports in the network with all their connecting flights<br>
